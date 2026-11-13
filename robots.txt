@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://projetsip.com/sitemap.xml
+Sitemap: https://projetsi.com/sitemap.xml
